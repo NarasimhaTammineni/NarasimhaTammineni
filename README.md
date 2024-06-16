@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Narasimha Tammineni
+- 👋 Hi, I’m Narasimha Tammineni
 - 👀 I’m interested in Tech, Security, Web Development
 - 🌱 I’m currently learning Web Development and Cyber Security
 
